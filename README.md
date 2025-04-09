@@ -1,2 +1,2 @@
-# Odin-AdminDashboard
-Building a full dashboard design
+# MyHub Project
+Building a full dashboard design with just HTML and CSS to implement later
